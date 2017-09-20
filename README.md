@@ -1,2 +1,2 @@
 # canvas-forest
-A randomly generated forest using the Canvas.
+Inspired by a recent section hike through Harriman State Park, I made a program to recursively doodle a tree.
